@@ -41,7 +41,7 @@
                     </descriptorRefs>
                     <archive>
                         <manifest>
-                            <mainClass>com.houarizegai.calculator.Calculator</mainClass>
+                            <mainClass>com.houarizegai.calculator.App</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
